@@ -1,0 +1,8 @@
+# A blue cube on a grey floor, light at half brightness
+
+camera  1.5 1.5 1
+look_at 0 -0.3 -4
+light   -4 5 0  0.5
+
+cube    0 -0.25 -4  1.5  0.2 0.4 1  shine 0.5
+plane   0 -1 0  0 1 0  0.6 0.6 0.6

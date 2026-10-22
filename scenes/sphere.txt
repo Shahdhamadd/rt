@@ -1,0 +1,8 @@
+# A red sphere on a grey floor
+
+camera  0 1 1
+look_at 0 -0.3 -4
+light   -4 5 0  1.0
+
+sphere  0 0 -4  1.0  1 0 0  shine 0.5
+plane   0 -1 0  0 1 0  0.6 0.6 0.6
