@@ -1,6 +1,6 @@
 # One of each object
 
-camera  0 1.5 1.5
+camera  0 1.5 -2
 look_at 0 -0.3 -5
 light   -4 5 0  1.0
 
